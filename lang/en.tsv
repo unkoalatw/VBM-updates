@@ -1,0 +1,922 @@
+# VBM en language pack: 中文\t翻譯
+設定	Settings
+開始玩	Play
+開始玩 ▶	Play ▶
+繼續	Continue
+主選單	Main Menu
+選擇關卡	Select Level
+選一關	Pick a level
+選關	Levels
+選關出發	Pick & Go
+故事	Story
+派對	Party
+躲貓貓	Hide & Seek
+變色躲貓貓	Chameleon Hide & Seek
+方塊派對	Block Party
+連線派對	Online Party
+地圖製造器	Map Maker
+我的地圖	My Maps
+新地圖	New Map
+排行榜	Leaderboard
+萬聖節活動	Halloween Event
+我的進度	My Progress
+每日任務	Daily Quests
+今天的任務	Today's Quests
+成就	Achievements
+積分賽	Ranked
+解鎖・商店	Unlocks & Shop
+簡單	Easy
+普通	Normal
+困難	Hard
+完成	Done
+隨機	Random
+自動	Auto
+怎麼玩	How to Play
+選地圖	Choose Map
+換地圖	Change Map
+選一張棋盤	Pick a board
+載入中…	Loading…
+需要更新	Update required
+下一版開放	Coming next update
+已擁有	Owned
+限定	Limited
+限時	Limited
+離開	Leave
+編輯	Edit
+自訂	Custom
+找朋友一起	Play with Friends
+離開房間	Leave Room
+加入房間	Join Room
+開房間	Host Room
+加入	Join
+房間大廳	Lobby
+解散房間	Close Room
+等朋友上車	Waiting for friends
+邀請朋友	Invite Friends
+同一個 Wi-Fi	Same Wi-Fi
+遠方的朋友	Remote Friends
+沒有網路	No Internet
+未連上網路	Offline
+開熱點	Start Hotspot
+關熱點	Stop Hotspot
+連線中…	Connecting…
+連線中	Connecting
+連線	Online
+複製邀請碼	Copy Invite Code
+貼上回覆碼	Paste Reply Code
+複製回覆碼	Copy Reply Code
+打通連線	Connect
+已複製！	Copied!
+掃我加入！	Scan to join!
+同機多人	Same Device
+同一台	Same Device
+空位	Empty
+等房主選關…	Waiting for host…
+等房主決定…	Waiting for host…
+觀戰中	Spectating
+回到房間	Back to Room
+房間聊天	Room Chat
+聽語音	Listen
+打字聊天	Type
+送出	Send
+還沒有訊息。打個招呼吧！	No messages yet. Say hi!
+暫停一下	Paused
+重新開始	Restart
+下一關	Next Level
+再玩一次	Play Again
+再來一次	Try Again
+本次陣亡	Deaths
+最佳紀錄	Best
+全隊陣亡	Team wiped
+回編輯器	Back to Editor
+Esc 繼續	Esc to resume
+按返回鍵繼續	Press Back to resume
+跳	Jump
+到達	Reached
+旁白	Narrator
+這一關誰最常掛	Who died the most
+回合	Turn
+準備好了	Ready
+回棋盤	Back to Board
+開始！	Go!
+塗裝	Paint
+變形	Transform
+一般	Classic
+感染	Infection
+雙重	Double
+獵人人數	Hunters
+視角靈敏度	Look Sensitivity
+介面	Display
+操作	Controls
+聲音	Audio
+語言	Language
+消息	Messages
+畫質	Graphics
+省電	Battery
+平衡	Balanced
+最美	Best
+解析度	Resolution
+幀率	Frame Rate
+視野	Field of View
+抗鋸齒	Anti-aliasing
+角色透視	Show Hidden Players
+畫面震動閃光	Screen Shake & Flash
+搖桿	Joystick
+跟隨	Follow
+隨指固定	Fixed at Touch
+完全固定	Fully Fixed
+搖桿靈敏度	Stick Sensitivity
+震動	Vibration
+音效	Sound FX
+音樂	Music
+旁白語音	Character Voice
+耳機 / 總音量	Headphones / Master
+聊天預設最小化	Start Chat Minimized
+遊戲消息通知	Game Notifications
+恢復預設	Reset
+清除進度	Clear Progress
+再按一次確認	Tap again to confirm
+已清除	Cleared
+關	Off
+開	On
+南瓜頭	Pumpkin Head
+幽靈	Ghost
+女巫	Witch
+科學怪人	Frankenstein
+吸血鬼	Vampire
+黑貓	Black Cat
+木乃伊	Mummy
+骷髏	Skeleton
+立即更新	Update Now
+下載完成後點通知安裝新版	When the download finishes, tap the notification to install
+稍後	Later
+無法建立暫存資料夾：	Can't create temp folder: 
+下載失敗：	Download failed: 
+解壓縮中…	Unpacking…
+解壓縮失敗：	Unpack failed: 
+更新好了，遊戲會重新開啟…	Updated! The game will restart…
+紅	Red
+藍	Blue
+橘	Orange
+綠	Green
+紫	Purple
+粉	Pink
+青	Cyan
+白	White
+灰	Gray
+視方	VBM
+雙人合作解謎　/　一個掛掉，全隊重來	Co-op puzzles  /  One falls, everyone restarts
+你已離開房間。	You left the room.
+中文	中文
+升級！Lv {0}	Level up! Lv {0}
+星星花紋	Star Pattern
+表情「衝啊！」	Emote "Go!"
+愛心花紋	Heart Pattern
+表情「救命」	Emote "Help!"
+閃電花紋	Lightning Pattern
+表情「GG」	Emote "GG"
+迷彩花紋	Camo Pattern
+表情「我在這」	Emote "Over here"
+豹紋花紋	Leopard Pattern
+表情「噓…」	Emote "Shh…"
+骷髏花紋	Skull Pattern
+表情「抓到你了」	Emote "Got you"
+菱格花紋	Argyle Pattern
+表情「再一局！」	Emote "One more!"
+表情「我是箱子」	Emote "I'm a box"
+金幣花紋（連續登入 7 天限定）	Coin Pattern (7-day login only)
+黃金寶箱模板（連續登入 7 天限定）	Golden Chest Template (7-day login only)
+Lv {0} 解鎖・或 {1} 星幣	Unlocks at Lv {0} · or {1} star coins
+連續登入 7 天限定	7-day login reward
++50 星幣	+50 star coins
+買到了！	Purchased!
+玩 3 局躲貓貓	Play 3 rounds of Hide & Seek
+躲貓貓撐過 2 分鐘	Survive 2 minutes in Hide & Seek
+躲貓貓抓到 3 個人	Catch 3 players in Hide & Seek
+死亡方塊過 3 關	Clear 3 Death Cube levels
+零陣亡過 1 關	Clear 1 level with no deaths
+用模板變身 2 次	Transform with a template 2 times
+在聊天說 3 句話	Send 3 chat messages
+跟朋友連線玩 1 局	Play 1 online game with friends
+塗裝畫 50 筆	Paint 50 strokes
+送出 5 個表情	Send 5 emotes
+每日任務完成	Daily quest complete
+今天的任務全部完成！	All of today's quests done!
+＋限定金幣花紋、黃金寶箱模板	+ Limited Coin Pattern & Golden Chest Template
+過關達人	Level Master
+過關 {0} 次	Clear {0} levels
+完美通關	Flawless
+零陣亡過關 {0} 次	Clear {0} levels with no deaths
+越挫越勇	Never Give Up
+陣亡 {0} 次	Fall {0} times
+躲貓貓玩家	Hide & Seeker
+玩 {0} 局躲貓貓	Play {0} rounds of Hide & Seek
+撐到最後	Last One Standing
+躲貓貓撐到時間結束 {0} 次	Survive to the end of Hide & Seek {0} times
+火眼金睛	Eagle Eye
+躲貓貓抓到 {0} 個人	Catch {0} players in Hide & Seek
+隱形人	Invisible
+躲貓貓累計撐過 {0} 秒	Hide for {0} seconds in total
+小畫家	Little Painter
+塗裝畫 {0} 筆	Paint {0} strokes
+變身大師	Master of Disguise
+用模板變身 {0} 次	Transform with a template {0} times
+話匣子	Chatterbox
+在聊天說 {0} 句話	Send {0} chat messages
+揪團王	Party Starter
+跟朋友連線玩 {0} 局	Play {0} online games with friends
+老朋友	Old Friend
+登入 {0} 天	Log in {0} days
+停不下來	Can't Stop
+累計玩 {0} 分鐘	Play {0} minutes in total
+獵人之王	King of Hunters
+當獵人抓光所有人 {0} 次	Catch everyone as hunter {0} times
+表情包	Emote Fan
+送出 {0} 個表情	Send {0} emotes
+存錢筒	Piggy Bank
+累計賺到 {0} 星幣	Earn {0} star coins in total
+木頭人	Statue
+躲貓貓定住 {0} 次	Freeze {0} times in Hide & Seek
+手滑	Butterfingers
+獵人打空 {0} 次	Miss {0} shots as hunter
+南瓜墓園初體驗	First Visit: Pumpkin Graveyard
+在南瓜墓園玩一局	Play a round in Pumpkin Graveyard
+墓園常客	Graveyard Regular
+在南瓜墓園玩 10 局	Play 10 rounds in Pumpkin Graveyard
+一網打盡	Clean Sweep
+一局抓到 5 個人	Catch 5 players in one round
+八人滿車	Full House
+8 個人一起連線	Play online with 8 people
+開麥	Mic On
+第一次用語音	Use voice chat for the first time
+感染源	Patient Zero
+感染模式當獵人贏一局	Win Infection mode as hunter
+雙重間諜	Double Agent
+雙重模式撐到最後	Survive to the end in Double mode
+變形者	Shapeshifter
+第一次改變外型	Change your shape for the first time
+七天不間斷	Seven Days Straight
+連續登入 7 天	Log in 7 days in a row
+全勤獎	Perfect Attendance
+連續登入 30 天	Log in 30 days in a row
+銅牌	Bronze
+銀牌	Silver
+金牌	Gold
+白金	Platinum
+鑽石	Diamond
+大師	Master
+段位提升！	Rank up!
+南瓜墓園	Pumpkin Graveyard
+霓虹倉庫	Neon Warehouse
+彩虹遊樂場	Rainbow Playground
+深夜地鐵站	Midnight Subway
+你	You
+你是獵人！等躲藏方躲好…	You're the hunter! Wait for the hiders…
+躲起來！把自己畫成場景的一部分	Hide! Paint yourself to blend into the scene
+大家都是獵人！	Everyone's a hunter!
+出動！找出所有躲藏者	Go! Find every hider
+獵人出動了！不要動	The hunters are out! Don't move
+獵人不能塗裝	Hunters can't paint
+桶箍	Barrel Hoops
+頂蓋	Lid
+標籤	Label
+底座	Base
+膠帶	Tape
+反光條	Reflector Strip
+輪子	Wheels
+警示條	Warning Stripe
+獵人等待中	Hunter waiting
+開槍	Shoot
+空白	Space
+定住	Freeze
+右鍵	Right-click
+手電筒	Flashlight
+敲	Knock
+房間設定	Room Settings
+收起	Collapse
+撐到時間結束就贏	Survive until time runs out
+被抓的立刻變獵人	The caught become hunters
+人人有槍，邊躲邊打	Everyone's armed: hide and shoot
+準備時間（躲藏方畫畫）	Prep time (hiders paint)
+30 秒	30 s
+45 秒	45 s
+60 秒	60 s
+90 秒	90 s
+搜索時間（獵人找人）	Search time (hunters seek)
+2 分	2 min
+3 分	3 min
+4 分	4 min
+5 分	5 min
+你的角色	Your Role
+躲藏	Hide
+獵人	Hunter
+電腦玩家	Bots
+電腦難度	Bot Level
+再來一局	Play Again
+調整設定	Change Settings
+等待房主…	Waiting for host…
+躲藏方獲勝！	Hiders win!
+獵人獲勝！	Hunters win!
+平手！	Draw!
+玩家	Player
+身分	Role
+抓到	Caught
+撐了	Survived
+總分	Score
+<color=#29E6FF>獵人</color>	<color=#29E6FF>Hunter</color>
+<color=#A79FB8>被抓</color>	<color=#A79FB8>Caught</color>
+<color=#FFD21F>存活</color>	<color=#FFD21F>Alive</color>
+你被感染了，現在你是獵人！	You're infected, now you're a hunter!
+你被抓到了！按 ◀ ▶ 觀戰	You got caught! Press ◀ ▶ to spectate
+準備開局	Getting ready
+{0}・在房間裡先畫好自己	{0} · Paint yourself in the room first
+躲藏 {0}	Hide {0}
+搜索 {0}	Search {0}
+雙重模式・看到誰就打誰	Double mode · Shoot whoever you see
+結算	Results
+觀戰	Spectate
+<color=#FF2E8C>躲藏＋獵人</color>	<color=#FF2E8C>Hider + Hunter</color>
+<color=#FFD21F>躲藏方</color>	<color=#FFD21F>Hider</color>
+<color=#A79FB8>被抓了</color>	<color=#A79FB8>Caught</color>
+暖身中	Warming up
+（定住）	(Frozen)
+滑鼠已叫出：再按 Alt 或點畫面空白處回到遊戲	Mouse freed: press Alt or click empty space to return
+WASD 移動・滑鼠 瞄準・左鍵 開槍・右鍵 手電筒・F 敲・空白 跳・Alt 叫出滑鼠	WASD move · Mouse aim · LMB shoot · RMB flashlight · F knock · Space jump · Alt mouse
+← → 換人看	← → switch view
+WASD 移動・空白 跳・F 塗裝・G 變形・Q 定住・Alt 叫出滑鼠・Esc 選單	WASD move · Space jump · F paint · G shape · Q freeze · Alt mouse · Esc menu
+WASD 移動・滑鼠 轉視角・空白 跳・Alt 叫出滑鼠	WASD move · Mouse look · Space jump · Alt mouse
+同步顏料中…	Syncing paint…
+參加：	Players: 
+等待房主開始…	Waiting for host to start…
+純色	Solid
+X 地磚	X Tile
+警示斜紋	Hazard Stripes
+直條紋	Vertical Stripes
+橫條紋	Horizontal Stripes
+點點	Dots
+格線	Grid
+棋盤	Board
+磚牆	Bricks
+木板	Wood
+波浪	Waves
+雜點	Noise
+同心圓	Rings
+星星	Stars
+愛心	Hearts
+閃電	Lightning
+迷彩	Camo
+豹紋	Leopard
+菱格	Argyle
+金幣	Coins
+方塊	Cube
+圓角	Rounded
+圓柱	Cylinder
+球	Ball
+膠囊	Capsule
+長凳	Bench
+柱子	Pillar
+錐台	Frustum
+躲藏方撐到時間結束就贏，獵人要全部抓光	Hiders win by surviving until time's up; hunters must catch everyone
+被抓的躲藏者立刻變成獵人	Caught hiders instantly become hunters
+大家先一起躲，然後大家都是獵人，最後沒被打中的人贏	Everyone hides, then everyone hunts; the last one not hit wins
+畫筆	Brush
+圓筆	Round Brush
+噴槍	Airbrush
+花紋章	Stamp
+橡皮擦	Eraser
+填色・吸色	Fill · Pick
+填一面	Fill Face
+填全身	Fill All
+上下漸層	Gradient
+滴管	Eyedropper
+更多	More
+左右對稱	Mirror
+全部重來	Start Over
+↶ 復原	↶ Undo
+重做 ↷	Redo ↷
+姿勢	Pose
+模板	Templates
+配件	Accessories
+副色	Second Color
+最近用過	Recent
+我的色盤（右鍵清除）	My Palette (right-click to clear)
+色相	Hue
+筆刷大小（右鍵拖曳）	Brush Size (right-drag)
+{0} 公分	{0} cm
+不透明度	Opacity
+邊緣硬度	Hardness
+噴點密度	Density
+花紋大小	Pattern Size
+花紋角度	Pattern Angle
+金屬感	Metallic
+粗糙度	Roughness
+快速外型	Quick Shapes
+{0} 公尺	{0} m
+寬	Width
+高	Height
+深	Depth
+側邊圓角（1 = 圓柱）	Side Rounding (1 = cylinder)
+上下圓角（1 = 球 / 膠囊）	Top Rounding (1 = ball / capsule)
+錐度（頂部寬度）	Taper (top width)
+還原外型	Reset Shape
+外觀存檔	Saved Looks
+存到 {0}	Save to {0}
+穿上 {0}	Wear {0}
+前後傾	Tilt F/B
+左右傾	Tilt L/R
+轉向	Turn
+站好	Stand
+躺平	Lie Flat
+側躺	On Side
+倒立	Upside Down
+歪一點	Tilt a Bit
+轉 45°	Turn 45°
+快速配件組（跟地圖上的道具一樣）	Quick Sets (match the map props)
+油桶	Oil Drum
+紙箱	Cardboard Box
+三角錐	Cone
+墓碑	Gravestone
+垃圾桶	Trash Can
+全部拿掉	Remove All
+單個配件（可以混搭，最多 {0} 個）	Single Items (mix up to {0})
+配件顏色（點一下 = 換成目前的畫筆主色）	Accessory Color (tap = use current brush color)
+主色（箍、底座）	Main (hoops, base)
+點綴（標籤、膠帶）	Accent (label, tape)
+最多 {0} 個配件	Up to {0} accessories
+木箱	Crate
+交通錐	Traffic Cone
+骰子	Dice
+磚柱	Brick Pillar
+南瓜	Pumpkin
+乾草堆	Hay Bale
+球池球	Ball Pit Ball
+黃金寶箱	Golden Chest
+一鍵變成地圖上常見的東西（外型 + 顏色 + 花紋），再自己微調。	One tap to become a common map prop (shape + color + pattern), then fine-tune.
+黃金寶箱：連續登入 7 天限定	Golden Chest: 7-day login only
+外觀已存到 {0}	Look saved to {0}
+存檔 {0} 是空的	Slot {0} is empty
+穿上外觀 {0}	Wearing look {0}
+點場景任何地方吸顏色（含金屬感、粗糙度），吸完回到原本的工具。	Tap anywhere in the scene to pick its color (incl. metallic & roughness), then return to your tool.
+點身上一面，整面塗滿目前的顏色。	Tap a face to fill it with the current color.
+用目前顏色蓋花紋。花紋跟地圖道具是同一套，大小 1.0、角度 0 就能對齊。	Stamp a pattern in the current color. Same patterns as map props; size 1.0 and angle 0 line up.
+噴出細點，適合做髒污、雜色。	Sprays fine dots, great for dirt and noise.
+擦回原本的樣子。	Erase back to the original.
+按住拖曳在身上畫。	Hold and drag to paint on yourself.
+拖曳空白處轉視角・滾輪縮放・G 完成	Drag empty space to rotate · Wheel to zoom · G done
+空白處拖曳轉視角・雙指縮放	Drag empty space to rotate · Pinch to zoom
+左鍵畫・右鍵左右拖調筆刷・中鍵或空白處拖曳轉視角・滾輪縮放・Ctrl+Z 復原・F 完成	LMB paint · RMB drag for brush size · MMB/empty drag to rotate · Wheel zoom · Ctrl+Z undo · F done
+單指在身上畫・空白處拖曳轉視角・雙指縮放	One finger paints · Drag empty space to rotate · Pinch to zoom
+工業裝配線 01	Assembly Line 01
+踩彩色地板換顏色・全員站進中間的綠圈就出發	Step on a color tile to switch · Everyone in the green ring to start
+有人離開準備圈，倒數取消。	Someone left the ring, countdown canceled.
+需要允許權限才能開熱點（「附近的裝置」或「位置」）	Hotspot needs permission ("Nearby devices" or "Location")
+權限被拒絕了：請到手機設定 → 應用程式 → VBM → 權限，允許「附近的裝置」或「位置」	Permission denied: go to Settings → Apps → VBM → Permissions and allow "Nearby devices" or "Location"
+開熱點失敗：	Hotspot failed: 
+房主	Host
+玩家 {0}	Player {0}
+無法建立房間：{0}	Can't create room: {0}
+IP 格式不正確	Invalid IP format
+無法連線：{0}	Can't connect: {0}
+邀請碼不正確，請整串複製貼上（VBM- 開頭）	Invalid invite code. Paste the whole thing (starts with VBM-)
+房間已滿（最多 {0} 人）或版本不同。	Room is full (max {0}) or version differs.
+房主已關閉房間。	The host closed the room.
+與房主斷線超過 30 秒。	Lost connection to host for over 30 seconds.
+嗨！	Hi!
+讚！	Nice!
+哈哈哈	Hahaha
+好險	Close one
+衝啊！	Go!
+救命	Help!
+我在這	Over here
+噓…	Shh…
+抓到你了	Got you
+再一局！	One more!
+我是箱子	I'm a box
+快來！	Come quick!
+小心！	Careful!
+好喔	OK
+再一場？	Another round?
+等我一下	Wait for me
+找不到麥克風	No microphone found
+麥克風打不開	Can't open microphone
+輪到你	Your turn
+輪到他	Their turn
+準備	Ready
+遊戲結束	Game Over
+就在 ★ 旁邊	Right next to ★
+離 ★ {0} 格	{0} spaces to ★
+不用，直接擲骰	No, just roll
+要先用道具嗎？	Use an item first?
+自選骰：要走幾步？	Pick Dice: how many steps?
+大路	Main Road
+捷徑	Shortcut
+岔路！要走哪邊？	Fork! Which way?
+商店：金幣不夠買東西	Shop: not enough coins
+不買	Skip
+歡迎光臨商店！（道具最多帶 3 個）	Welcome to the shop! (carry up to 3 items)
+歡迎來到{0}！	Welcome to {0}!
+這張地圖的機關	This Board's Gimmicks
+格子種類	Space Types
+下一頁	Next
+方塊派對棋盤	Block Party Board
+決定順序	Turn Order
+好	OK
+小遊戲：{0}	Minigame: {0}
+<color=#FFE57A>+{0} 金幣</color>	<color=#FFE57A>+{0} coins</color>
+你是派對之王！	You're the Party King!
+回主選單	Main Menu
+木馬捷徑	Carousel Shortcut
+方塊遊樂園	Block Park
+雲霄飛車要 {0} 金幣，不夠搭	The coaster costs {0} coins, not enough
+付 {0} 金幣搭雲霄飛車到對面？	Pay {0} coins to ride the coaster across?
+搭！	Ride!
+不要	No
+雲霄飛車出發！	All aboard!
+霓虹太空站	Neon Space Station
+光橋	Light Bridge
+光橋切換！	Light bridges switched!
+另一條光橋開了，路線變了	The other bridge opened; the route changed
+UFO 來了！	UFO incoming!
+蛋糕捷徑	Cake Shortcut
+甜點工廠島	Sweets Factory Island
+糖果大砲！	Candy Cannon!
+輸送帶換方向！	Conveyors reversed!
+現在往前送	Now moving forward
+現在往後送	Now moving backward
+輸送帶！	Conveyor!
+雙倍骰	Double Dice
+三倍骰	Triple Dice
+自選骰	Pick Dice
+星星傳送門	Star Warp
+金幣磁鐵	Coin Magnet
+這回合擲兩顆骰子，點數相加	Roll two dice this turn and add them
+這回合擲三顆骰子，點數相加	Roll three dice this turn and add them
+這回合自己選要走 1–10 步	Choose 1–10 steps this turn
+直接傳送到星星旁邊	Warp right next to the star
+從隨機一位對手吸走 5–10 金幣	Pull 5–10 coins from a random rival
+藍格 +3 金幣	Blue space +3 coins
+紅格 −3 金幣	Red space −3 coins
+事件格	Event Space
+道具格	Item Space
+商店	Shop
+幸運格	Lucky Space
+倒楣格	Unlucky Space
+起點	Start
+小藍	Blue
+小橘	Orange
+小綠	Green
+小紅	Red
+星星在這裡！用 {0} 金幣換一顆	The star is here! Trade {0} coins for one
+最後衝刺！	Final stretch!
+最後 5 回合：藍格、紅格的金幣加倍	Last 5 turns: blue and red spaces give double coins
+咻——傳送到星星旁邊！	Whoosh! Warped next to the star!
+用 {0} 金幣換一顆星星？	Trade {0} coins for a star?
+換！	Trade!
+星星搬家了	The star moved
+買了「{0}」	Bought "{0}"
++10 金幣	+10 coins
+免費道具	Free item
+跟第一名拿 5 金幣	Take 5 coins from 1st place
+傳送到星星旁邊	Warp to the star
+幸運轉盤	Lucky Wheel
+幸運！	Lucky!
+−8 金幣	−8 coins
+給最後一名 5 金幣	Give 5 coins to last place
+跟隨機一人換金幣	Swap coins with a random player
+倒退 4 格	Go back 4 spaces
+倒楣轉盤	Unlucky Wheel
+倒楣！	Unlucky!
+金幣交換！	Coin swap!
+撿到錢包！	Found a wallet!
+颱風來了！	Typhoon!
+其他人各掉 3 金幣	Everyone else drops 3 coins
+位置交換！	Position swap!
+順風！	Tailwind!
+再往前走 3 格	Move 3 more spaces
+星星搬家！	The star moves!
+星星跑到別的地方去了	The star went somewhere else
+大家請客！	Treat time!
+等大家準備好…	Waiting for everyone…
+遊戲結束！	Game over!
+頒發額外星星	Bonus stars
+小遊戲王	Minigame Star
+金幣王	Coin Star
+事件王	Event Star
+左下搖桿移動	Move with the stick (bottom left)
+WASD / 方向鍵 移動	WASD / arrows to move
+塗地大戰	Paint Wars
+踩過的格子會變成你的顏色，別人也能塗回去。30 秒後格子最多的人贏。	Tiles you step on turn your color; others can paint them back. Most tiles after 30 s wins.
+金幣雨	Coin Rain
+天上會掉金幣，碰到就撿起來；金色大金幣一次 3 枚。30 秒後撿最多的人贏。	Coins fall from the sky; touch to grab. Big gold coins are worth 3. Most coins after 30 s wins.
+顏色大逃殺	Color Drop
+畫面上方喊出一個顏色，時間到其他顏色的地板會掉下去。快站到對的顏色上！最後還站著的人贏。	A color is called at the top; when time's up, every other color falls. Get on the right color! Last one standing wins.
+紅色	Red
+藍色	Blue
+黃色	Yellow
+綠色	Green
+・右下「跳」	 · "Jump" (bottom right)
+・空白鍵 跳	 · Space to jump
+雷射跳繩	Laser Jump Rope
+雷射會繞著圓台掃過來，看準時機跳起來躲開！越轉越快，被掃到就出局，最後留下的人贏。	A laser sweeps around the platform. Time your jumps! It speeds up; get hit and you're out. Last one left wins.
+轉速 {0}x	Speed {0}x
+家裡、學校、咖啡廳	Home, school, café
+不用行動數據、不用 Wi-Fi	No mobile data, no Wi-Fi
+端對端直連，不經伺服器	Direct peer-to-peer, no server
+查詢中…	Checking…
+查詢對外位址中…	Finding your public address…
+已複製，貼到 LINE 傳給朋友	Copied! Paste it to your friend in a message
+打通中…朋友那邊應該幾秒內就會連上	Connecting… your friend should join in a few seconds
+回覆碼不正確，請整串複製（VBM- 開頭）	Invalid reply code. Copy the whole thing (starts with VBM-)
+這關我閉著眼睛都能過。	I could beat this one with my eyes closed.
+上次你也這麼說，然後我們死了二十次。	You said that last time, then we died twenty times.
+跟緊我，別亂跑。	Stay close, don't wander off.
+你才是那個會亂跑的。	You're the one who wanders off.
+我先走，你負責收屍。	I'll go first, you clean up after me.
+收你的屍，我已經很熟練了。	I've had a lot of practice cleaning up after you.
+這次聽我的。	This time, listen to me.
+上次聽你的，我們掉下去三次。	Last time I listened, we fell three times.
+放輕鬆，我是專業的。	Relax, I'm a pro.
+專業掉坑的那種。	A pro at falling into pits.
+我有一個計畫。	I have a plan.
+拜託不要。	Please don't.
+你看起來很緊張喔。	You look nervous.
+跟你同一隊，誰不緊張。	Who wouldn't be, teamed with you?
+今天手感不錯。	I'm feeling good today.
+你的手感一直都是零。	Your "feel" is always zero.
+我說等一下，你耳朵是裝飾品嗎？	I said wait. Are your ears just decoration?
+精彩，再來一次我要錄起來。	Amazing. Do it again so I can record it.
+不是我推的，我發誓……大概。	I didn't push you, I swear… probably.
+你是在測試死法大全嗎？	Are you testing every way to die?
+好喔，又要重來了，謝謝你喔。	Great, starting over again. Thanks.
+這個死法，我給八分。	I give that fall an 8 out of 10.
+你的方塊是紙做的嗎？	Is your cube made of paper?
+我還沒出手，你就先走了。	You were gone before I even moved.
+下次死之前，先打聲招呼好嗎？	Next time, say goodbye before you die?
+恭喜解鎖新死法。	Congrats on unlocking a new way to die.
+你是故意的吧？我要聽實話。	That was on purpose, right? Be honest.
+我假裝沒看到，你也假裝沒發生。	I'll pretend I didn't see it; you pretend it didn't happen.
+顏色不對，就別往光裡走。	Wrong color? Don't walk into the light.
+雷射：謝謝光臨。	Laser: thanks for stopping by.
+切得很整齊，值得鼓勵。	A very clean cut. Well done.
+那塊東西不會停下來等你。	That thing won't stop and wait for you.
+恭喜成為方塊薄片。	Congrats, you're a cube slice now.
+壓機準時上班，你沒有。	The press is always on time. You weren't.
+地板到那裡就結束了。	The floor ends right there.
+深淵說它很寂寞，謝謝你去陪它。	The abyss was lonely. Thanks for keeping it company.
+重力今天也很正常。	Gravity works fine today too.
+會發光的地板，通常不是好事。	A glowing floor is rarely good news.
+滋——好香的電子方塊。	Bzzt, smells like toasted cube.
+你現在充滿電了，可惜用不到。	You're fully charged now. Too bad it's useless.
+尖的那一面朝上，是有原因的。	The pointy side faces up for a reason.
+刺刺的，很痛吧。	Spiky. That hurt, huh?
+尖刺：今天的第一位客人。	Spikes: our first customer today.
+再試一次，這次慢一點。	Try again, slower this time.
+我早就說這關很簡單。	I told you this one was easy.
+下一關換你帶路，我想活久一點。	You lead next level; I'd like to live a bit longer.
+剛剛那幾次不算，對吧？	Those last few tries don't count, right?
+我們真是完美的團隊……如果不算死掉的那幾次。	We're the perfect team… not counting the deaths.
+沒有我，你早就掉下去了。	Without me, you'd have fallen long ago.
+是我帶飛的，大家都看到了。	I carried us. Everyone saw it.
+這次你終於沒拖後腿。	You finally didn't hold us back.
+剛剛是誰說閉著眼睛都能過？	Who said they could do it with eyes closed?
+色	 color
+有人	Someone
+旁白：「{0}」	Narrator: "{0}"
+Esc 繼續・R 重來	Esc resume · R restart
+全員	Everyone
+被雷射切開了	was cut by a laser
+被壓扁了	was crushed
+掉進深淵了	fell into the abyss
+觸電了	got shocked
+被尖刺刺穿了	was spiked
+壞掉了	broke
+冰塊	Ice
+崩塌塊	Crumbling Tile
+出生點	Spawn
+終點	Goal
+一般終點	Normal Goal
+陷阱：站上去觸發	Trap: triggers when stepped on
+雷射	Laser
+常亮	Always On
+閃爍 A	Blink A
+閃爍 B	Blink B
+踩鈕關	Off by Button
+踩鈕開	On by Button
+追蹤方塊	Track Cube
+定時轉 90°	Timed 90° Turn
+踩鈕轉 90°	Button 90° Turn
+按鈕	Button
+尖刺	Spikes
+一直升起	Always Up
+門：踩鈕降下	Gate: lowers by button
+陷阱：踩鈕升起	Trap: rises by button
+箱子	Box
+跳台	Jump Pad
+傳送門	Portal
+電梯	Elevator
+上升・自動	Lift · Auto
+上升・踩鈕	Lift · Button
+平移・自動	Slide · Auto
+平移・踩鈕	Slide · Button
+液壓機	Press
+節奏 A	Rhythm A
+節奏 B	Rhythm B
+跟著走壓下・回彈	Press on step · Spring back
+跟著走壓下・不回彈	Press on step · Stay
+電地板	Electric Floor
+踩鈕斷電	Off by Button
+輸送帶	Conveyor
+一直轉	Always Running
+踩鈕停	Stop by Button
+踩鈕轉	Run by Button
+鏡子	Mirror
+固定	Fixed
+踩鈕翻面	Flip by Button
+鏡箱	Mirror Box
+光感器	Light Sensor
+全像塊	Hologram Block
+連動方塊	Linked Block
+跟著走・同向	Follow · Same Way
+跟著走・反向	Follow · Opposite
+只跟東西	East-West Only
+只跟南北	North-South Only
+絆線	Tripwire
+擋住時觸發	Triggers while blocked
+碰一次永久觸發	Triggers once, forever
+拆除	Remove
+任何色	Any Color
+北	N
+東	E
+南	S
+西	W
+點方塊的一面就往那面疊・拖曳轉視角・雙指縮放	Tap a face to stack on it · Drag to rotate · Pinch to zoom
+點方塊的一面就往那面疊・右鍵拆・拖曳轉視角・滾輪縮放・Q / E 轉 90°	Click a face to stack · RMB remove · Drag to rotate · Wheel zoom · Q / E turn 90°
+超出地圖範圍，按「寬＋ / 高＋」放大	Outside the map. Use "W+ / H+" to enlarge
+最高 {0} 層	Max {0} levels high
+那裡有機關，先拆掉	There's a gadget there. Remove it first
+點一個方塊，把它變成	Tap a block to turn it into
+先放一塊方塊，機關要放在方塊上面	Place a block first; gadgets go on top of blocks
+點方塊的「頂面」放機關	Tap the top face of a block to place a gadget
+上面被方塊擋住了	Blocked by a block above
+再點一格放出口	Tap another tile for the exit
+取消傳送門	Cancel Portal
+步	Step
+步!	Step!
+連動	Link
+門{0}	Gate {0}
+入口	Entrance
+地圖名稱	Map Name
+讀取	Load
+儲存	Save
+試玩	Test Play
+左轉	Turn Left
+右轉	Turn Right
+拉近	Zoom In
+拉遠	Zoom Out
+重設	Reset
+寬−	W−
+寬＋	W+
+高−	H−
+高＋	H+
+顏色：	Color: 
+鏡面：／	Mirror: /
+鏡面：＼	Mirror: \
+朝向：	Facing: 
+頻道 	Channel 
+瞄準：	Aim: 
+確定清空？	Clear everything?
+新的空白地圖	New blank map
+我的地圖 	My Maps 
+已儲存「{0}」	Saved "{0}"
+儲存失敗：	Save failed: 
+先放至少一個「出生點」	Place at least one Spawn first
+還沒有存過地圖。做好之後按「儲存」。	No saved maps yet. Press "Save" when you're done.
+刪除	Delete
+確定？	Sure?
+讀取失敗	Load failed
+已讀取「{0}」	Loaded "{0}"
+正在建立遊覽車零流量房間...	Creating an offline bus room...
+正在搜尋附近遊覽車房間...	Searching for nearby bus rooms...
+找到附近房間：{0}	Found nearby room: {0}
+正在加入 {0}...	Joining {0}...
+輸送帶會把你往前或往後送	Conveyors push you forward or back
+付 5 金幣搭雲霄飛車飛到對面	Pay 5 coins to ride the coaster across
+光橋會開關，小心 UFO 吸金幣	Light bridges switch; watch out for the coin-stealing UFO
+三張裡抽一張	Random pick of the three
+雲霄飛車	Roller Coaster
+光橋・UFO	Light Bridge · UFO
+每張都有自己的機關，星星位置每局不同	Each board has its own gimmicks; the star moves every game
+機關・	Gimmick · 
+製作中	Coming soon
+{0} 回合	{0} turns
+這張棋盤還在製作中，先玩霓虹太空站吧	This board is still in the works. Try Neon Space Station for now
+隨機棋盤・跟電腦	Random board · vs bots
+南瓜墓園・8 套限定裝扮	Graveyard · 8 costumes
+10/1 – 11/10 限定	Limited: 10/1 – 11/10
+躲貓貓・活動地圖	Hide & Seek · Event Map
+什麼時候穿	When to wear
+活動期間	During event
+一直穿	Always
+不穿	Never
+現在：穿著（下一關生效）	Now: wearing (from next level)
+現在：一般外觀	Now: normal look
+死亡方塊	Death Cube
+WASD 移動・滑鼠轉視角・F 塗裝・Q 定住・也可以用手把	WASD move · Mouse look · F paint · Q freeze · Gamepad works too
+空白鍵 擲骰 / 確定・小遊戲：WASD 移動、空白 跳	Space roll / confirm · Minigames: WASD move, Space jump
+WASD 紅色・方向鍵 / IJKL 藍色・也可以用手把	WASD red · Arrows / IJKL blue · Gamepad works too
+擲骰子、搶星星、打小遊戲。	Roll dice, grab stars, play minigames.
+開房 → 選關 → 棋盤	Host → Levels → Board
+這次骰子一定給我 10。	This time the dice WILL give me a 10.
+你上次也這樣說。	You said that last time.
+電腦：{0}	Bots: {0}
+一個掛掉，全隊重來。	One falls, everyone restarts.
+最多 {0} 人	Up to {0} players
+這次不要再推我下去了。	Don't push me off this time.
+上次是你自己跳的。	Last time you jumped on your own.
+把自己畫成道具，撐到最後。	Paint yourself as a prop and survive.
+{0}・跟電腦	{0} · vs bots
+2–8 人・一起躲	2–8 players · hide together
+我現在是一個箱子。	I am now a box.
+箱子不會講話。	Boxes don't talk.
+變色躲貓貓怎麼玩	How to play Chameleon Hide & Seek
+1　躲藏方：變成道具	1  Hiders: become a prop
+準備時間內，把自己畫成旁邊的東西：滴管吸顏色、花紋章蓋花紋、變形調大小，也可以直接選模板。按 Q 定住就完全不會動。	During prep, paint yourself like nearby things: eyedropper for colors, stamps for patterns, reshape to resize, or just pick a template. Press Q to freeze completely.
+2　獵人：用顏料槍找人	2  Hunters: find them with the paint gun
+準備時間獵人看不到。開始後用顏料槍打可疑的東西，打中躲藏方就抓到；打錯會扣分。	Hunters can't see during prep. Then shoot suspicious things with the paint gun; hit a hider to catch them. Misses cost points.
+3　撐到時間結束	3  Survive until time's up
+躲藏方每撐 10 秒加分，獵人抓到人加分。三種模式：一般、感染（被抓的變獵人）、雙重（大家都有槍）。	Hiders score every 10 s survived; hunters score per catch. Three modes: Classic, Infection (caught become hunters), Double (everyone's armed).
+手機：左邊搖桿移動、右邊拖曳轉視角，右下角按鈕開槍 / 跳 / 定住 / 塗裝。	Phone: left stick moves, drag right side to look, bottom-right buttons shoot / jump / freeze / paint.
+電腦：WASD 移動・滑鼠轉視角・空白 跳・Q 定住・F 塗裝・G 變形・左鍵 開槍・Alt 叫出滑鼠	PC: WASD move · Mouse look · Space jump · Q freeze · F paint · G shape · LMB shoot · Alt mouse
+每日任務 ✓	Daily Quests ✓
+連續登入 第 {0} 天	Login streak: day {0}
+限定金幣花紋	Limited Coin Pattern
+今天拿限定花紋！	Get the limited pattern today!
+再 {0} 天拿限定花紋！	{0} more days for the limited pattern!
+升級自動解鎖，也可以用星幣先買。　你有 <color=#FFE57A>★ {0}</color>　Lv {1}（下一級還差 {2} 經驗）	Unlocks as you level up, or buy early with star coins.  You have <color=#FFE57A>★ {0}</color>  Lv {1} ({2} XP to next level)
+登入限定	Login reward
+故事關最少陣亡紀錄（你的，格子裡的數字是陣亡次數；金 = 0、銀 = 1–2）・累計全隊陣亡 <color=#FFE57A>{0}</color> 次	Your fewest deaths per story level (number = deaths; gold = 0, silver = 1–2) · Team deaths total <color=#FFE57A>{0}</color>
+全球排行榜要等雲端開好（P5 的 Cloudflare 帳號）才能上傳比較；現在先顯示你自己的紀錄。	The global leaderboard needs the cloud server first; for now it shows your own records.
+積分賽開放中（週六、週日）	Ranked is open (Sat & Sun)
+積分賽只在週六、週日開放	Ranked is only open on Saturday and Sunday
+領取	Claim
+登入獎勵	Login Bonus
+選方式	Choose how
+開房・邀請朋友	Host · Invite friends
+找房間加入	Find a room
+等房主出發	Wait for host
+搜尋附近的房間…（請連到同一個 Wi-Fi 或手機熱點）	Searching nearby rooms… (join the same Wi-Fi or hotspot)
+・已滿	 · Full
+連線・房主	Online · Host
+4人	4P
+8 人	8 players
+8人	8P
+這個模式還沒有關卡	No levels for this mode yet
+第 <color=#FFE57A>{0}</color> / {1} 頁	Page <color=#FFE57A>{0}</color> / {1}
+{0} 人	{0} players
+2–8 人・可跟電腦	2–8 players · bots OK
+已過・最少陣亡 {0}	Cleared · fewest deaths {0}
+已過	Cleared
+輪到你們了	Your turn
+共用螢幕・左右各一半	Shared screen · split left/right
+同一個 Wi-Fi・最多 {0} 人	Same Wi-Fi · up to {0} players
+掃 QR 碼或找附近房間	Scan a QR code or find nearby rooms
+連線不用網際網路、不耗行動數據。人比方塊多時，多的人觀戰：3–4 人玩派對關、5–8 人玩 8 人關最剛好。	No internet or mobile data needed. Extra players spectate: 3–4 players fit Party levels, 5–8 fit 8-player levels.
+跳到最新進度	Jump to latest
+沒網路・遠方朋友	No Wi-Fi · faraway friends
+P{0}・房主	P{0} · Host
+人比方塊多時，多的人觀戰：3–4 人玩派對關、5–8 人玩 8 人關最剛好	Extra players spectate: 3–4 players fit Party levels, 5–8 fit 8-player levels
+找不到房間？⏎<size=26><color=#CBBFFF>輸入房主畫面上的 IP</color></size>	Can't find the room?⏎<size=26><color=#CBBFFF>Enter the IP shown on the host's screen</color></size>
+遠方的房間⏎<size=26><color=#CBBFFF>貼上房主用 LINE 傳來的邀請碼</color></size>	Faraway room⏎<size=26><color=#CBBFFF>Paste the invite code the host sent you</color></size>
+限定裝扮  <size=26><color=#CBBFFF>每個顏色一套，不影響玩法</color></size>	Limited Costumes  <size=26><color=#CBBFFF>One per color, cosmetic only</color></size>
+一個人玩（跟電腦）⏎連線請在「找朋友一起」開房後換地圖	Solo (vs bots)⏎For online, host via "Play with Friends" then change map
+最小化：收到聊天只亮未讀數字，不在畫面上浮出⏎通知：升級、每日任務完成、成就解鎖的小卡	Minimize: new chat only shows an unread count⏎Notifications: small cards for level-ups, daily quests and achievements
+鬼屋（可以上二樓）・墓園・南瓜田・女巫大鍋。⏎到處都是南瓜，畫成南瓜就對了——⏎不過獵人也知道。	Haunted house (with a 2nd floor) · Graveyard · Pumpkin patch · Witch's cauldron.⏎Pumpkins everywhere, so paint yourself as one——⏎but the hunters know that too.
+例如 192.168.1.23	e.g. 192.168.1.23
+進入關卡後，右上角會顯示你負責的方塊顏色。	In the level, the top right shows which cube is yours.
+進入關卡後，右上角會顯示你負責的方塊顏色（WASD / 方向鍵 / IJKL / 手把都可以）。	In the level, the top right shows which cube is yours (WASD / arrows / IJKL / gamepad).
+預設	Default
+跟隨：按在哪裡就出現在哪裡，拖太遠底座會跟著手指走	Follow: appears where you touch; the base follows if you drag too far
+隨指固定：按在哪裡就出現在哪裡，之後底座不動	Floating: appears where you touch, then stays put
+完全固定：搖桿固定在左下角	Fixed: stick stays in the bottom left
+一部分劇情台詞暫時只有中文。	Some story lines are Chinese-only for now.
+接續 故事 {0}	Continue Story {0}
+接續 故事 01	Continue Story 01
+甜點工廠島・跟電腦	Sweets Factory Island · vs bots
+霓虹倉庫・跟電腦	Neon Warehouse · vs bots
+✓  找房間加入	✓  Find a room
+✓  選方式	✓  Choose how
+1  選方式	1  Choose how
+2  找房間加入	2  Find a room
+2  開房・邀請朋友	2  Host · Invite friends
+3  等房主出發	3  Wait for host
+{0} 語言包	{0} Pack
+已安裝	Installed
+未安裝	Not installed
+移除	Remove
+下載安裝	Download
+下載中 {0}%	Downloading {0}%
+先在下面下載「{0}」語言包	Download the {0} pack below first
+語言包下載位置還沒開放（下一版）。	Language pack downloads open in the next version.
+找不到語言包	Language pack not found
+語言包內容不對	Language pack is invalid
+無法儲存：	Can't save: 
