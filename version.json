@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "notes": "隊友斷線時，AI 會暫時幫他操作方塊，遊戲不會停下來\n聊天按 Enter 送出後視窗不會關，可以一直聊\n遊戲更省電、更順，手機省電模式鎖 30 FPS\n連線畫面簡化：只留同一個 Wi-Fi 的連線方式",
+  "version": "0.1.4",
+  "notes": "全新畫面：工業風地磚、方塊換上會動的燈條表情、遠處有薄霧和柔和陰影\n躲貓貓新增 3 張高複雜度地圖：賽博夜市、太空實驗室、貨櫃碼頭\n躲貓貓：躲的人可以飛、貼牆爬，定住後還能微調位置和角度\n躲貓貓地圖可以躲的東西多 2 到 3 倍，還有樹屋、天橋、起重機等高處\n連線大廳右上角新資訊卡：看每個人的延遲、誰準備好了、聊天和邀請\n修正：躲貓貓被抓到變成鬼之後，射擊冷卻會重新計算",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
