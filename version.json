@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "notes": "連線大改：低延遲 Wi-Fi、延遲面板、隊友直連、暱稱。舊版不能跟新版連線，請更新。",
+  "version": "0.1.2",
+  "notes": "新模式「方塊農場」：種田、養雞、出貨賺錢，四季輪替，進度自動存檔\n農場可以找朋友一起經營，大家一起翻土、澆水、收成\n房間分模式了：在哪個模式開房就只玩那個模式，不會加錯房\n手機上的聊天、麥克風、表情按鈕可以按了",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
