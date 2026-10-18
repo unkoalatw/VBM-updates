@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
-  "notes": "躲貓貓的獵人電腦變聰明了：不會卡牆，會去可疑的地方搜、會抬頭看\n比較舊的手機會自動調整畫質，玩起來更順；下載檔變小約 10 MB\n主畫面回到原本的選單；「找朋友一起」改成只有開房間、加入房間\n修正：手機上看不到「開始比賽」按鈕、主畫面對話泡泡沒對準方塊\n各種手機、平板的螢幕比例都重新檢查過，畫面不會被切掉或壓扁",
+  "version": "0.1.7",
+  "notes": "修正：手機上無法進入方塊賽車\n修正：手機上部分道具與角色碰撞失效（穿模、掉出地圖）\n包含 v0.1.6 的所有更新：獵人電腦變聰明、舊手機更順、主畫面回到原本選單",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
