@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "notes": "修正：手機上無法進入方塊賽車\n修正：手機上部分道具與角色碰撞失效（穿模、掉出地圖）\n包含 v0.1.6 的所有更新：獵人電腦變聰明、舊手機更順、主畫面回到原本選單",
+  "version": "0.1.8",
+  "notes": "修正：躲貓貓地圖牆上大螢幕的字左右顛倒\n包含 v0.1.7 的所有內容（手機賽車、碰撞修正）",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
