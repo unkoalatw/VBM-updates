@@ -1,6 +1,6 @@
 {
-  "version": "0.1.4",
-  "notes": "全新畫面：工業風地磚、方塊換上會動的燈條表情、遠處有薄霧和柔和陰影\n躲貓貓新增 3 張高複雜度地圖：賽博夜市、太空實驗室、貨櫃碼頭\n躲貓貓：躲的人可以飛、貼牆爬，定住後還能微調位置和角度\n躲貓貓地圖可以躲的東西多 2 到 3 倍，還有樹屋、天橋、起重機等高處\n連線大廳右上角新資訊卡：看每個人的延遲、誰準備好了、聊天和邀請\n修正：躲貓貓被抓到變成鬼之後，射擊冷卻會重新計算",
+  "version": "0.1.5",
+  "notes": "全新太空站大廳：自由走動，走進 5 座傳送門直接進入各模式\n開太空船飛去 5 顆星球降落（草原、熔岩、冰海、糖果、霓虹城），銀河地圖可以自動駕駛\n新模式「方塊賽車」：紫色夜景城市賽道\n躲貓貓地圖修正，躲藏時不會再從邊緣滑落\n新啟動畫面、連線大廳可用 QR 碼邀請",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
