@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "notes": "組隊大廳搬進太空站：開房或加入後，大家的方塊一起在站裡走動，房主選模式出發（房間卡可以收合成一顆鍵）\n主畫面右上改成一顆「模式選擇」，每個模式都有示意圖\n手機賽車：新增搖桿、油門和煞車，還有暫停選單可以重新開始或回主選單\n修正：躲貓貓牆上大螢幕的字左右顛倒\n修正：更新後跳出的「更新了什麼」內容是舊的",
+  "version": "0.1.10",
+  "notes": "選關頁重新設計：一頁 8 關，右邊大預覽，點一下選、再點一下就出發\n模式選擇改成整頁，左上有返回鍵\n加入房間重新排版：附近的房間、掃 QR、輸入 IP 一眼看清楚",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
