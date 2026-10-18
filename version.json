@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
-  "notes": "全新太空站大廳：自由走動，走進 5 座傳送門直接進入各模式\n開太空船飛去 5 顆星球降落（草原、熔岩、冰海、糖果、霓虹城），銀河地圖可以自動駕駛\n新模式「方塊賽車」：紫色夜景城市賽道\n躲貓貓地圖修正，躲藏時不會再從邊緣滑落\n新啟動畫面、連線大廳可用 QR 碼邀請",
+  "version": "0.1.6",
+  "notes": "躲貓貓的獵人電腦變聰明了：不會卡牆，會去可疑的地方搜、會抬頭看\n比較舊的手機會自動調整畫質，玩起來更順；下載檔變小約 10 MB\n主畫面回到原本的選單；「找朋友一起」改成只有開房間、加入房間\n修正：手機上看不到「開始比賽」按鈕、主畫面對話泡泡沒對準方塊\n各種手機、平板的螢幕比例都重新檢查過，畫面不會被切掉或壓扁",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
