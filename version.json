@@ -1,6 +1,7 @@
 {
-  "version": "0.1.11",
-  "notes": "新增網路組隊：開房後把 6 碼房號給朋友，不在同一個 Wi-Fi 也能一起玩\n同一個 Wi-Fi 的組隊照舊，不用網路也能玩\n網頁版上線：手機、電腦打開瀏覽器就能玩，也能跟 App 玩家組隊\n修正一句語音沒有聲音",
+  "version": "0.1.12",
+  "min_version": "0.1.12",
+  "notes": "邀請朋友更簡單：房號放大顯示，可以掃 QR 或複製邀請連結，朋友點開就直接進房\n房主網路短暫斷線不會再把大家踢出房間\n修正躲貓貓顏料一直顯示「同步中」\n修正電腦版更新失敗時卡在更新畫面\n這版是必要更新：舊版本無法再跟大家連線",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
