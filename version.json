@@ -1,6 +1,6 @@
 {
-  "version": "0.1.10",
-  "notes": "選關頁重新設計：一頁 8 關，右邊大預覽，點一下選、再點一下就出發\n模式選擇改成整頁，左上有返回鍵\n加入房間重新排版：附近的房間、掃 QR、輸入 IP 一眼看清楚",
+  "version": "0.1.11",
+  "notes": "新增網路組隊：開房後把 6 碼房號給朋友，不在同一個 Wi-Fi 也能一起玩\n同一個 Wi-Fi 的組隊照舊，不用網路也能玩\n網頁版上線：手機、電腦打開瀏覽器就能玩，也能跟 App 玩家組隊\n修正一句語音沒有聲音",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
