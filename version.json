@@ -1,7 +1,7 @@
 {
-  "version": "0.1.13",
-  "min_version": "0.1.12",
-  "notes": "網頁開房更穩、多人連線更順、派對電腦變好打、修正更新卡重疊",
+  "version": "1.0.0",
+  "min_version": "1.0.0",
+  "notes": "1.0 大改版：故事劇情、派對街機、賽車連線＋車球、每個模式畫面統一、玩法更平衡、連線更穩",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
 }
