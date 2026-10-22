@@ -1,7 +1,30 @@
 {
-  "version": "1.0.0",
-  "min_version": "1.0.0",
-  "notes": "1.0 大改版：故事劇情、派對街機、賽車連線＋車球、每個模式畫面統一、玩法更平衡、連線更穩",
+  "version": "1.0.1",
+  "min_version": "1.0.1",
+  "notes": "VBM 進入封存：從 10/22 10:30 起要輸入授權碼才能玩。感謝大家！",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
-  "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk"
+  "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk",
+  "archive": "on",
+  "archive_codes": [
+    "680af4cc86481798608d4aa3eb9a64e34a7d8d147690adc4c5164387e0d60740",
+    "62a9416da9252cf94bbf41e56d59ea9b4c9b945f0c3ea75ddf429e9562e7c1f7",
+    "b74f2fc5c3cf4561c447cb5517a9e60c9714e0abcbcffae73d6602743924afd2",
+    "ccf0a0be1fec6e3ac71780ff111ef44bfa3a608e080adf798296cca83e73582e",
+    "f5349ed58127df43b6d4287f300b776d320ec470d3ad5341cf296d2fe4c681e1",
+    "9fd90d86ad92b14cc6b472b40bc698710977def0baef714d9e73bfb4b4d46005",
+    "69f5ea50968349476d78bfc170533fb22d523c890ccadb3ce7b3e1859d229b77",
+    "6b5fd774b69f24636f9ef9cc8d358067696d2f2bd57a151acf8d0d91ab4cc126",
+    "a045c0bebc39b14be4e39344d530c35e8ecc620910434e30fca33cd8ef32babb",
+    "63a22b24eb345f3d9d17eba2d35e8a062be83d63ad525cdf8a68fe2e32c74ce6",
+    "65ed6d0a6f9f7d577c9aa8fbe5271ececbe46408c548739dbe650d2e00c99eaf",
+    "b21237946e38e644a5bc1b126f1cd2941a83686decb7b03f8318a63150f244dd",
+    "831695a9c555aa67acc1b4fcf1e7ad462c979cdb10e318310e2ee03836c72795",
+    "7236a387a282921ca523f69c703d47edc9cfa4731d988a41781f42176db0d31d",
+    "1be44455cfe3e9a15aa84aeed00cb5b51052a2bfb5e44cf3a262c9950f00f28a",
+    "bc509abd645f1e675290bb9298d806c627dca99c00df5f746dd53202ef4fab14",
+    "a1648ca992369e803d93d4054ecf8db713c7c0bbdd5095996f13e2009b4af4d0",
+    "ec725b70869f4a5aedfc061ca55381113f300fb4696a9dcccddf311786c6d73a",
+    "662e72907fda7e926a38e88a19bdab066ce77e582f831e4a1be6a11cd0697f0a",
+    "bdb15b540ddecc5a432a8f62c5d9d28d279efb7ae91923ea80fb9236bc715706"
+  ]
 }
