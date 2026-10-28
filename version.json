@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "min_version": "1.0.1",
-  "notes": "VBM 進入封存：從 10/22 10:30 起要輸入授權碼才能玩。感謝大家！",
+  "notes": "・故事新增第六到十一章：關卡從 81 關變成 200 關，後面的很燒腦\n・派對（4 人）變成 70 關，8 人大亂鬥變成 60 關\n・卡關了？暫停選單按「提示」，地上會一段一段畫出路線\n・農場每一季變成 50 天，原本的存檔不會亂掉\n・修好幾個可以偷吃步的關卡、賽車有時進不去的問題，排行榜和解鎖清單也更好看了",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk",
   "archive": "on",
