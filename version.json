@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "min_version": "1.0.1",
-  "notes": "・故事新增第六到十一章：關卡從 81 關變成 200 關，後面的很燒腦\n・派對（4 人）變成 70 關，8 人大亂鬥變成 60 關\n・卡關了？暫停選單按「提示」，地上會一段一段畫出路線\n・農場每一季變成 50 天，原本的存檔不會亂掉\n・修好幾個可以偷吃步的關卡、賽車有時進不去的問題，排行榜和解鎖清單也更好看了",
+  "notes": "・不用授權碼了：打開就能玩\n・主畫面換回大家熟悉的舊版：開始玩、找朋友一起、三顆小鍵\n・死亡方塊按「開始玩」直接選關，劇情在「故事地圖」\n・找朋友一起：開房間／加入房間兩張大卡，好友和工坊也在這裡\n・按鈕圖示換成更清楚的向量圖示",
   "windows": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM_Windows.zip",
   "android": "https://github.com/unkoalatw/VBM-updates/releases/latest/download/VBM.apk",
-  "archive": "on",
+  "archive": "off",
   "archive_codes": [
     "680af4cc86481798608d4aa3eb9a64e34a7d8d147690adc4c5164387e0d60740",
     "62a9416da9252cf94bbf41e56d59ea9b4c9b945f0c3ea75ddf429e9562e7c1f7",
